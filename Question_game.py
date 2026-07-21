@@ -2,7 +2,7 @@ import time
 import threading
 import random
 print("When the program says go, you will answer the questions that appear on the terminal ")
-print("DISCLAIMER: Divisions are rounded up, so you di=n;t have to deal with the decimals😉")
+print("DISCLAIMER: Divisions are rounded up, so you don't have to deal with the decimals😉")
 time.sleep(5)
 print("GO!")
 
